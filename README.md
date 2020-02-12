@@ -1,4 +1,4 @@
-This is an example project showing step-by-step how to build an automated release workflow for an open-source project.
+Test: This is an example project showing step-by-step how to build an automated release workflow for an open-source project.
 
 There's a [related post](https://medium.com/@rfletcher_96265/an-automated-release-workflow-using-gradle-nebula-bintray-circleci-694e65184348) describing each step in detail.
 
